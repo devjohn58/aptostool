@@ -1,0 +1,1 @@
+export const NODE_URL = "https://fullnode.mainnet.aptoslabs.com/v1";
